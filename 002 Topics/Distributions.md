@@ -13,6 +13,6 @@ tags:
 
 ## Sub-topics
 
-
+- [[NixOS]]
 ## Notes
 
