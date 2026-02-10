@@ -12,7 +12,7 @@ tags:
 
 ## Topics
 
-
+- [[Lazygit]]
 
 ## Direct Notes
 
