@@ -1,0 +1,61 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "00 Meta/Guides",
+      "tag": "#type/meta",
+      "pattern": ""
+    },
+    {
+      "folder": "001 MoC",
+      "tag": "#type/moc",
+      "pattern": ""
+    },
+    {
+      "folder": "002 Topics",
+      "tag": "#type/topic",
+      "pattern": ""
+    },
+    {
+      "folder": "003 Bridge",
+      "tag": "#type/bridge",
+      "pattern": ""
+    },
+    {
+      "folder": "004 Notes/Coding",
+      "tag": "#dom/code",
+      "pattern": ""
+    },
+    {
+      "folder": "004 Notes/Operating Systems",
+      "tag": "#dom/os",
+      "pattern": ""
+    },
+    {
+      "folder": "004 Notes/Terminals",
+      "tag": "#dom/term",
+      "pattern": ""
+    },
+    {
+      "folder": "004 Notes/Editors",
+      "tag": "#dom/editor",
+      "pattern": ""
+    },
+    {
+      "folder": "004 Notes/CLI Tools",
+      "tag": "#dom/cli",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": "00 Meta"
+    },
+    {
+      "folder": "00 Meta/Templates"
+    }
+  ]
+}

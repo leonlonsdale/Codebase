@@ -1,0 +1,23 @@
+# --- Obsidian Core ---
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/indexed
+.obsidian/graph.json
+
+# --- Visuals & Local Preferences ---
+# Exclude theme files and local UI settings to prevent configuration drift
+.obsidian/themes/
+.obsidian/appearance.json
+
+# --- Plugin Specifics ---
+# Exclude unused or personal plugins
+.obsidian/plugins/emoji-shortcodes/
+
+# Keep plugin logic (main.js) and system rules (data.json)
+# Exclude local-only plugin states
+.obsidian/plugins/*/data-*.json
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
