@@ -14,7 +14,9 @@ tags:
 
 ## Sub-topics
 
-* [[002 Topics/Ghostty]] — Zig-based, high-performance emulator. 
-* [[Alacritty]] — Cross-platform, GPU-accelerated.
+* [[Ghostty]]
+* [[Alacritty]] 
+* [[Kitty]]
+* [[Foot]]
 ## Notes
 
