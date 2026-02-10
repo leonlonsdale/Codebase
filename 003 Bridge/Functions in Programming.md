@@ -13,4 +13,6 @@ Temporary bridge to ensure all directories are included in the initial commits.
 ## Related Notes
 
 - [[JavaScript Functions]]
+- [[Golang Functions]]
+- [[Python Functions]]
 
