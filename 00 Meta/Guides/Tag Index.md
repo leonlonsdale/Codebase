@@ -42,7 +42,7 @@ These tags define the **Sub-directory** within the `04 Notes` folder for atomic 
 | #dom/code   | `04 Notes/Coding`            | General programming, logic, and syntax.        |
 | #dom/os     | `04 Notes/Operating Systems` | All OS-specific notes (Linux, macOS, Windows). |
 | #dom/term   | `04 Notes/Terminals`         | Terminal emulators, shells, and multiplexers.  |
-| #dom/editor | `04 Notes/Code Editors`      | IDEs and text editors (VS Code, Neovim).       |
+| #dom/editor | `04 Notes/Editors`           | IDEs and text editors (VS Code, Neovim).       |
 | #dom/cli    | `04 Notes/CLI Tools`         | Command-line utilities and standalone tools.   |
 
 ## Category Tags

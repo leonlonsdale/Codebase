@@ -7,10 +7,10 @@ tags:
 
 ## Description
 
-(A summary of this specific category and how the component notes relate to one another.)
+(A summary of this specific bridge and how the component notes relate to one another.)
 
-## Sub-topics
+## Related Notes
 
 
-## Notes
+
 

@@ -2,14 +2,15 @@
 type: note
 tags:
   - type/note
+  - dom/cli
 ---
-# {{title}}
+# Lazygit
 
 ## Description
 
 (A technical explanation of the subject matter.)
 
-## Examples
+## Configuration
 
 
 
