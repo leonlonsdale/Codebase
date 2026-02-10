@@ -74,6 +74,8 @@ Identifies the specific technology or language.
 | #lang/nix  | Nix Expression Language / NixOS content. |
 | #lang/bash | Bash / Shell scripting.                  |
 | #lang/css  | Styling and CSS specific content.        |
+| #lang/rs   | Rust specific content.                   |
+| #lang/nix  | Nix specific content.                    |
 
 ## Structural Rules
 
