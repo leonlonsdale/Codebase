@@ -12,7 +12,7 @@ tags:
 
 ## Topics
 
-
+- [[Helix Editor]]
 
 ## Direct Notes
 

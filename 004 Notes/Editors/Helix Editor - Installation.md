@@ -3,8 +3,9 @@ type: note
 tags:
   - type/note
   - dom/editor
+  - cat/install
 ---
-# Helix Editor
+# Installing Helix Editor
 
 ## Description
 
