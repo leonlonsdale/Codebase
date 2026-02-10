@@ -15,6 +15,7 @@ tags:
 ## Sub-topics
 
 * [[Ghostty - Overview]]
+* [[Ghostty - Installation]]
 * [[Ghostty - Configuration]]
 * [[Ghostty - Keybindings]]
 ## Notes
