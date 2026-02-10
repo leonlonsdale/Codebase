@@ -12,6 +12,12 @@ tags:
 
 ## Topics
 
+- [[JavaScript]]
+- [[TypeScript]]
+- [[Python]]
+- [[Golang]]
+- [[Nix]]
+- [[Rust]]
 
 
 ## Direct Notes
