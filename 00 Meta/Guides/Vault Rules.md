@@ -39,3 +39,8 @@ The vault operates on a strict top-down flow:
 * **Location:** Tags are stored in the Properties (YAML) frontmatter.
 * **Format:** Lowercase, singular, and nested (e.g., `#type/note`, `#lang/js`).
 * **Definition:** Refer to the **[[Tag Index]]** before creating new tags.
+
+## Note Naming Protocol
+
+- **MoCs** and **Topics** names must clearly define the topic. There must be no question as to what the topic is. It must not cover more than one topic. If more than one topic could be covered, make one a sub-topic.
+- **Notes** should be named in the format `topic - note subject` with the topic name pre-fixing the subject. For example, `javascript - functions`. Abbreviations may be used for the prefix where the topic is long, for example: `Data Structures and Algorithms` may be abbreviated to `DSA`. 
