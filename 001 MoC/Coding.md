@@ -8,7 +8,7 @@ tags:
 
 ## Description
 
-(An overview of this high-level area of knowledge and its boundaries.)
+The central hub for programming languages, logic, and software development methodologies. This MoC organizes the "how-to" of building software, from syntax and design patterns to the broader concepts of the development lifecycle.
 
 ## Topics
 

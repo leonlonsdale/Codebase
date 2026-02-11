@@ -8,8 +8,9 @@ tags:
 
 ## Description
 
-(An overview of this high-level area of knowledge and its boundaries.)
+A collection of Command Line Interface applications and utilities designed to perform specific tasks via the terminal. This includes version control tools, package managers, and system utilities that prioritise efficiency and automation over graphical interfaces.
 
+Notes will cover installation, configuration, and usage.
 ## Topics
 
 - [[Lazygit]]

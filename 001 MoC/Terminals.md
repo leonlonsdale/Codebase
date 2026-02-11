@@ -8,7 +8,7 @@ tags:
 
 ## Description
 
-(An overview of this high-level area of knowledge and its boundaries.)
+The interface hub for interacting with the shell. This MoC covers terminal emulators, shell environments (like Bash or Zsh), and customization through aliases, prompts, and configuration files to optimise the command-line experience.
 
 ## Topics
 
