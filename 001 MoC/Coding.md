@@ -12,13 +12,16 @@ tags:
 
 ## Topics
 
-- [[JavaScript]]
-- [[TypeScript]]
-- [[Python]]
-- [[Golang]]
-- [[Nix]]
-- [[Rust]]
+- Languages
+	- [[JavaScript]]
+	- [[TypeScript]]
+	- [[Python]]
+	- [[Golang]]
+	- [[Nix]]
+	- [[Rust]]
 
+- Theory
+	- [[Data Structures and Algorithms]]
 
 ## Direct Notes
 
