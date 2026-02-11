@@ -13,10 +13,10 @@ A high-level, interpreted scripting language primarily used for web development 
 
 ## Language Basics
 
-- [[JavaScript Functions]]
+- [[JavaScript - Functions]]
 
 ## Computer Science
 
-- [[JavaScript Built-ins - Complexity]]
+- [[JavaScript - Complexity of Built-in Features]]
 ## Notes
 

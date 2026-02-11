@@ -13,7 +13,7 @@ Notes on Go, a statically typed, compiled language designed for simplicity, conc
 
 ## Language Basics
 
-- [[Golang Functions]]
+- [[Golang - Functions]]
 
 ## Computer Science
 

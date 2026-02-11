@@ -16,12 +16,12 @@ The study of how an algorithm's resource requirements, specifically time and spa
 
 ## Notes
 
-- [[Big O Notation]]
-- [[Time Complexity]]
-- [[Space Complexity]]
-- [[Big O Simplification Rules]]
-- [[Logarithms in Computer Science]]
+- [[DSA - Big O Notation]]
+- [[DSA - Time Complexity]]
+- [[DSA - Space Complexity]]
+- [[DSA - Big O Simplification Rules]]
+- [[DSA - Logarithms in Computer Science]]
 
 ## Related
 
-- [[JavaScript Built-ins - Complexity]]
+- [[JavaScript - Complexity of Built-in Features]]

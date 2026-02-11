@@ -16,9 +16,9 @@ This topic defines what an algorithm is and outlines the fundamental properties 
 
 ## Notes
 
-- [[What Is an Algorithm]]
-- [[Computational Costs & Growth Rate]]
-- [[Characteristics of an Algorithm]]
-- [[Algorithm Design Approaches]]
-- [[Iteration vs Recursion]]
-- [[Deterministic vs Non-Deterministic Algorithms]]
+- [[DSA - What Is an Algorithm]]
+- [[DSA - Computational Costs & Growth Rate]]
+- [[DSA - Characteristics of an Algorithm]]
+- [[DSA - Algorithm Design Approaches]]
+- [[DSA - Iteration vs Recursion]]
+- [[DSA - Deterministic vs Non-Deterministic Algorithms]]

@@ -5,7 +5,6 @@ tags:
   - dom/code
   - cat/logic
   - lang/js
-  - lang/ts
 ---
 # JavaScript Built-ins - Complexity
 

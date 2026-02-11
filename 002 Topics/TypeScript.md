@@ -16,7 +16,7 @@ A strongly typed superset of JavaScript that adds static types to help identify 
 
 ## Computer Science
 
-- [[JavaScript Built-ins - Complexity]]
+- [[JavaScript - Complexity of Built-in Features]]
 
 ## Notes
 

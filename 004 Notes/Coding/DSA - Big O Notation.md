@@ -13,7 +13,7 @@ Big O notation is a mathematical concept used to analyse how an algorithm's perf
 
 Big O focuses on general growth patterns (constant, linear, logarithmic, quadratic, etc.) rather than exact measurements. It describes the algorithm itself, independent of hardware or implementation details.
 
-Big O notation is written as **O(f(n))**, where:
+Big O notation is written as **O(f(n))**, where: 
 
 - **O** describes the upper bound of growth.
 - **f(n)** represents how runtime or space changes relative to input size **n**.

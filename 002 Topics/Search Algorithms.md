@@ -16,8 +16,8 @@ This topic covers algorithms designed to locate elements within data structures.
 
 ## Notes
 
-- [[Linear Search]]
-- [[Binary Search]]
-- [[Binary Search Tree Search]]
-- [[Hash Table Search]]
-- [[Graph Search Algorithms]]
+- [[DSA - Linear Search]]
+- [[DSA - Binary Search]]
+- [[DSA - Binary Search Tree Search]]
+- [[DSA - Hash Table Search]]
+- [[DSA - Graph Search Algorithms]]

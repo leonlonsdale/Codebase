@@ -13,7 +13,7 @@ An interpreted, high-level language focused on code readability and versatile us
 
 ## Language Basics
 
-- [[Python Functions]]
+- [[Python - Functions]]
 
 ## Computer Science
 
