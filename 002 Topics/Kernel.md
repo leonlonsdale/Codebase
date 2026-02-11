@@ -9,7 +9,7 @@ tags:
 
 ## Description
 
-(A summary of this specific category and how the component notes relate to one another.)
+The core component of an operating system that manages hardware resources and facilitates communication between software and hardware.
 
 ## Sub-topics
 

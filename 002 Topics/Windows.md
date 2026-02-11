@@ -9,7 +9,7 @@ tags:
 
 ## Description
 
-(A summary of this specific category and how the component notes relate to one another.)
+Notes on the Windows environment, including PowerShell, WSL and general system management.
 
 ## Sub-topics
 

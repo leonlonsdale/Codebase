@@ -9,7 +9,7 @@ tags:
 
 ## Description
 
-(A summary of this specific category and how the component notes relate to one another.)
+A purely functional, lazy programming language used for defining packages and configurations within the Nix ecosystem.
 
 ## Language Basics
 

@@ -10,7 +10,7 @@ tags:
 
 ## Description
 
-(A summary of this specific category and how the component notes relate to one another.)
+A modern, high-performance terminal emulator that leverages GPU rendering and native features for a smooth experience, written in Zig.
 
 ## Sub-topics
 

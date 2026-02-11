@@ -9,7 +9,7 @@ tags:
 
 ## Description
 
-(A summary of this specific category and how the component notes relate to one another.)
+A high-level, interpreted scripting language primarily used for web development and server-side applications.
 
 ## Language Basics
 

@@ -9,7 +9,7 @@ tags:
 
 ## Description
 
-(A summary of this specific category and how the component notes relate to one another.)
+A systems programming language focused on safety, speed and memory management without the need for a garbage collector.
 
 ## Language Basics
 

@@ -9,7 +9,7 @@ tags:
 
 ## Description
 
-(A summary of this specific category and how the component notes relate to one another.)
+The central hub for methods of organising data efficiently and the logic used to manipulate that data.
 
 ## Sub-topics
 

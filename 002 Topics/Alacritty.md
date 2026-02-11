@@ -11,7 +11,7 @@ tags:
 
 ## Description
 
-(A technical explanation of the subject matter.)
+A cross-platform, GPU-accelerated terminal emulator focused on performance and simplicity, designed to be lightweight and fast.
 
 ## Examples
 

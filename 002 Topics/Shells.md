@@ -9,7 +9,7 @@ tags:
 
 ## Description
 
-(A summary of this specific category and how the component notes relate to one another.)
+Command-line interpreters like Bash, Zsh or Fish that provide the primary interface for executing system commands.
 
 ## Sub-topics
 

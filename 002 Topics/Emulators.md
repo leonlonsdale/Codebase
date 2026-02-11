@@ -10,7 +10,7 @@ tags:
 
 ## Description
 
-(A summary of this specific category and how the component notes relate to one another.)
+Documentation regarding various terminal emulators, their rendering engines and hardware acceleration techniques.
 
 ## Sub-topics
 

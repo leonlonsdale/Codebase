@@ -9,7 +9,7 @@ tags:
 
 ## Description
 
-(A summary of this specific category and how the component notes relate to one another.)
+The study of how an algorithm's resource requirements, specifically time and space, scale as the input size increases.
 
 ## Sub-topics
 

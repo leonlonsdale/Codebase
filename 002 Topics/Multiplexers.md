@@ -9,7 +9,7 @@ tags:
 
 ## Description
 
-(A summary of this specific category and how the component notes relate to one another.)
+Tools such as Tmux or Zellij used to manage multiple terminal sessions, windows and panes within a single interface.
 
 ## Sub-topics
 

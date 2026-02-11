@@ -9,7 +9,7 @@ tags:
 
 ## Description
 
-(A summary of this specific category and how the component notes relate to one another.)
+Documentation concerning the Linux kernel, various distributions and system-level configurations.
 
 ## Sub-topics
 

@@ -6,7 +6,7 @@ tags: [type/topic]
 
 ## Description
 
-(A summary of this specific category and how the component notes relate to one another.)
+A fast, lightweight and minimalistic Wayland-native terminal emulator designed for efficiency.
 
 ## Sub-topics
 

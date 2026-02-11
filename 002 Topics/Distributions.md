@@ -9,7 +9,7 @@ tags:
 
 ## Description
 
-(A summary of this specific category and how the component notes relate to one another.)
+Specific versions of Linux, such as NixOS, Arch or Ubuntu, and their unique philosophies and package sets.
 
 ## Sub-topics
 

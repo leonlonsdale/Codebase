@@ -9,7 +9,7 @@ tags:
 
 ## Description
 
-(A summary of this specific category and how the component notes relate to one another.)
+Notes on Go, a statically typed, compiled language designed for simplicity, concurrency and high performance.
 
 ## Language Basics
 

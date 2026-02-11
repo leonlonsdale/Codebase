@@ -8,7 +8,7 @@ tags:
 
 ## Description
 
-(A summary of this specific category and how the component notes relate to one another.)
+Systems and tools like `apt`, `pacman` or `npm` used to install, update and manage software dependencies.
 
 ## Sub-topics
 

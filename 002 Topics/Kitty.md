@@ -6,7 +6,7 @@ tags: [type/topic]
 
 ## Description
 
-(A summary of this specific category and how the component notes relate to one another.)
+A highly-customisable, GPU-based terminal emulator that supports tabs, windows and advanced functionality through "kittens".
 
 ## Sub-topics
 

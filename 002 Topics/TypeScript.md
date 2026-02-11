@@ -9,7 +9,7 @@ tags:
 
 ## Description
 
-(A summary of this specific category and how the component notes relate to one another.)
+A strongly typed superset of JavaScript that adds static types to help identify and catch errors during development.
 
 ## Language Basics
 

@@ -11,7 +11,7 @@ tags:
 
 ## Description
 
-(A summary of this specific category and how the component notes relate to one another.)
+A post-modern modal text editor written in Rust, featuring built-in LSP support and multiple cursors.
 
 ## Sub-topics
 
